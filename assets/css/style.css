@@ -1,0 +1,50 @@
+
+body {
+    background: dodgerblue;
+    font-family: Titr;
+}
+
+* {
+    max-width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.formExporter {
+    background: whitesmoke;
+    width: 30%;
+    height: auto;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10%;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+}
+
+.formExporter input, textarea, select {
+    width: 100%;
+    line-height: 2;
+    border: 1px solid #b4b4b4;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+form h3 {
+    text-align: center;
+    color: dodgerblue;
+    font-size: x-large;
+    margin-top: 0px;
+}
+
+.submit {
+    padding: 10px 30px;
+    margin: 0 auto;
+    background: dodgerblue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.dSubmit {
+    text-align: center;
+}
